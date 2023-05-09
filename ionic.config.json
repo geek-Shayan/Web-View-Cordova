@@ -1,0 +1,7 @@
+{
+  "name": "web-view-c",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
