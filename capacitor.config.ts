@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'com.sadi.webViewC',
   appName: 'web-view-c',
   webDir: 'www',
   server: {
